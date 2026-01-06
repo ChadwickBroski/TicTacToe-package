@@ -1,4 +1,4 @@
-# py-tictactoe-engine
+# TicTacToe package
 
 A clean and efficient Tic Tac Toe engine.
 
@@ -13,3 +13,4 @@ game.make_move(random_ai(game))
 
 print(game.board)
 print(game.winner)
+
