@@ -13,4 +13,7 @@ game.make_move(random_ai(game))
 
 print(game.board)
 print(game.winner)
+```
 
+## Future Updates
+- A better bot.
